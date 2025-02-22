@@ -3,7 +3,11 @@ package com.hayatitastan;
 import javax.swing.*;
 
 /**
- * Created by Dr. Hayati TASTAN on 2.10.2022
+ * Project      : java_01_data_types_ht
+ * Repository   : https://github.com/haytastan/java_01_data_types_ht
+ * Author       : Dr. Hayati TAŞTAN
+ * Created on   : Oct 02, 2022
+ * Updated on   : Feb 22, 2025
  */
 public class Main {
     public static void main(String[] args) {
